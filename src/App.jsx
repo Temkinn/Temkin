@@ -14,6 +14,16 @@ function App() {
       <Component name="красный" />
       <Component name="синий" />
       <Component name="салатовый" />
+
+      <Component name="зеленый" />
+      <Component name="красный" />
+      <Component name="синий" />
+      <Component name="салатовый" />
+      
+      <Component name="зеленый" />
+      <Component name="красный" />
+      <Component name="синий" />
+      <Component name="салатовый" />
     </div>
   )
 }
